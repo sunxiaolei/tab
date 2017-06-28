@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TabView">
+        <attr name="tabBackgroundColor" format="color"/>
+        <attr name="tabIndicatorColor" format="color"/>
+        <attr name="tabIndicatorHeight" format="dimension"/>
+        <attr name="tabSelectedTextColor" format="color"/>
+        <attr name="tabSelectedTextSize" format="dimension"/>
+        <attr name="tabTextColor" format="color"/>
+        <attr name="tabTextSize" format="color"/>
+    </declare-styleable>
+</resources>
